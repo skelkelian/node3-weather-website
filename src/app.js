@@ -100,3 +100,10 @@ app.get('*', (req, res) => {
 app.listen(port, () => { // starts the server up
     console.log('Server is up on port ' + port) // tells the coder that the port is up
 })
+
+
+// Steps to commit changes to git
+    // git status (tells you what files have been changed since last commit)
+    // git add . (adds the files to the commit block)
+    // git commit -m "Insert sentence about what changes you made here" (commits the files)
+    // git push (pushes the files up to git on website)
