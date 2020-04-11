@@ -107,3 +107,7 @@ app.listen(port, () => { // starts the server up
     // git add . (adds the files to the commit block)
     // git commit -m "Insert sentence about what changes you made here" (commits the files)
     // git push (pushes the files up to git on website)
+    // if you need more explanation check out videos 66 "Pushing Code to GitHub"
+
+// This is my personal website
+    // https://kelkelian-weather-application.herokuapp.com/
